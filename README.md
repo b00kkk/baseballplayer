@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# 스케티즈 사이트 크롤링 후 시각화
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+야구선수 별 구종 확인
